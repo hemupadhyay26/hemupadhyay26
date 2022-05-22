@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hem
  I do content on Photoshop and Development. I really enjoy learning languages and frameworks like react and etc, as well as working on WordPress. I also design the art and layout in photoshop. I have good knowledge of photoshop
 
-###Skills
+
 Skills: C++/ REACT / JS / HTML / CSS / C
 
 
