@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:100vh;
+    background-color: #3498D8;
+}
+.wrapper{
+    background-color: #fff;
+    height: 260px;
+    max-width: 450px;
+    border-radius:7px;
+    padding: 16px 25px;
+    transition: height 0.2s ease;
+}
+.wrapper.active {
+    height: 600px;
+}
+header h1{
+    font-size: 21px;
+    font-weight:600;
+}
+header p{
+    margin-top: 5px;
+    color: #474747;
+    font-size:16px;
+}
+.wrapper .form{
+    margin: 20px 0 30px;
+}
+
+.form :where(input,button){
+    width: 100%;
+    height: 55px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+.form input{
+    border: 1px solid #999;
+    font-size:18px;
+    padding: 0 17px
+}
+.form button{
+    background-color: #3498D8;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size:17px;
+    color: #fff;
+
+}
+.wrapper .qr-code{
+    border: 1px solid #ccc;
+    display: flex;
+    opacity:0;
+    pointer-events: none;
+    padding: 33px 0;
+    align-items: center;
+    border-radius: 5px;
+    justify-content: center;
+}
+.wrapper.active .qr-code{
+    opacity: 1;
+    pointer-events: auto;
+    transition: opacity 0.5s 0.05s ease;
+}
+
+
+
+
+
+
+
+
