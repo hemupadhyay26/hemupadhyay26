@@ -2,7 +2,7 @@
  I do content on Photoshop and Development. I really enjoy learning languages and frameworks like React etc., as well as working on MERN stack development. I also designed the art and layout in Photoshop. I have good knowledge of PowerBI for creating interesting insights for non-tech people. I also have exposure to the data science field.
 
 
-Skills: C++/ REACT / JS / HTML / CSS / C / python / Pandas / OpenCV / NodeJS / ExpressJS / API / PowerBI 
+Skills: C++/ REACT / JS / HTML / CSS / C / python / Pandas / OpenCV / NodeJS / ExpressJS / API / PowerBI / REACT Native
 
 
 
