@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Hem
- I do content on Photoshop and Development. I really enjoy learning languages and frameworks like React etc., as well as working on MERN stack development. I also designed the art and layout in Photoshop. I have good knowledge of PowerBI for creating interesting insights for non-tech people. I also have exposure to the data science field.
+ I do content on Software development. I enjoy learning new concepts and skills and I also used to create artwork in the meantime. I also designed the art and layout in Photoshop. I have good knowledge of AWS, Linux, and other software development tools. Currently, I'm working as a DevOps engineer.
 
-
-Skills: C++/ REACT / JS / HTML / CSS / C / NodeJS / ExpressJS / API / REACT Native
+Skills: C++ / JS / JS framework / HTML / CSS / C / NodeJS / Rust* 
 
 
 
