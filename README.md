@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hem
- I do content on Software development. I enjoy learning new concepts and skills and I also used to create artwork in the meantime. I also designed the art and layout in Photoshop. I have good knowledge of AWS, Linux, and other software development tools. Currently, I'm working as a DevOps engineer.
+I am a developer with good knowledge of AWS, Linux, and other software development tools. Currently, I'm working as a DevOps engineer.
 
-Skills: C++ / JS / JS framework / HTML / CSS / C / NodeJS / Rust* 
+Skills: JS / HTML / CSS / NodeJS / Cloud Computing / CI-CD automation 
 
 
 
