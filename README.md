@@ -5,3 +5,5 @@ Skills: JS / HTML / CSS / NodeJS / Cloud Computing / CI-CD automation
 
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=hemupadhyay26)
+
+(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemupadhyay26&theme=dracula)
